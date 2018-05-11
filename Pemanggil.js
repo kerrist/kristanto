@@ -50,7 +50,7 @@ KODE IKLAN DISINI
 <script type="text/javascript">
 var currentURL=location.href;
 var str = currentURL;
-var res = str.replace("http://www.safelink.ga/p/generate.html?url=", "");
+var res = str.replace("https://kerrist-link.blogspot.com/p/464748495051525354555657585960616263646.html");
 document.write('<button type="button" id="download" class="Visit_Link btn btn-success" onclick="changeLink();" style="display: none;"><strong>Visit Link</strong> <i class="fa fa-external-link" aria-hidden="true"></i></button>')
 </script>
 </div>
